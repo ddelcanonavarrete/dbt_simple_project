@@ -24,3 +24,33 @@ Happy modeling!
 nanos: 403729000
  after 54.62 seconds
 [0m10:06:46.407662 [debug] [MainThread]: Flushing usage events
+
+
+============================== 09:26:45.486884 | 62fa7abc-938f-460b-8828-d6ff2f682fbe ==============================
+[0m09:26:45.486884 [info ] [MainThread]: Running with dbt=1.5.0-b5
+[0m09:26:45.492193 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'debug': 'False', 'fail_fast': 'False', 'log_path': 'logs', 'version_check': 'True', 'profiles_dir': '/mnt/c/Users/dcano/projects/dbt_simple_project', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'introspect': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'static_parser': 'True', 'target_path': 'None', 'send_anonymous_usage_stats': 'False'}
+[0m09:26:45.494746 [debug] [MainThread]: Flushing usage events
+
+
+============================== 09:51:09.849203 | 64b5bf8f-57e5-4913-8c24-e41c9de0f94c ==============================
+[0m09:51:09.849203 [info ] [MainThread]: Running with dbt=1.5.0-b5
+[0m09:51:09.853095 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'version_check': 'True', 'fail_fast': 'False', 'log_path': 'logs', 'debug': 'False', 'profiles_dir': '/mnt/c/Users/dcano/projects/dbt_simple_project', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'introspect': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'static_parser': 'True', 'target_path': 'None', 'send_anonymous_usage_stats': 'False'}
+[0m09:51:09.855695 [debug] [MainThread]: Flushing usage events
+
+
+============================== 09:53:43.010024 | 1792530a-b6fc-4e19-bbce-fd5a63791eb1 ==============================
+[0m09:53:43.010024 [info ] [MainThread]: Running with dbt=1.5.0-b5
+[0m09:53:43.013965 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '/mnt/c/Users/dcano/projects/dbt_simple_project', 'version_check': 'True', 'debug': 'False', 'log_path': 'logs', 'fail_fast': 'False', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'introspect': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'static_parser': 'True', 'target_path': 'None', 'send_anonymous_usage_stats': 'False'}
+[0m09:53:43.016176 [debug] [MainThread]: Flushing usage events
+
+
+============================== 09:54:03.719096 | 15a118e2-3970-4b1b-b843-dd3639b15046 ==============================
+[0m09:54:03.719096 [info ] [MainThread]: Running with dbt=1.5.0-b5
+[0m09:54:03.723201 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'version_check': 'True', 'log_path': 'logs', 'debug': 'False', 'profiles_dir': '/mnt/c/Users/dcano/projects/dbt_simple_project', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'static_parser': 'True', 'log_format': 'default', 'introspect': 'True', 'target_path': 'None', 'send_anonymous_usage_stats': 'False'}
+[0m09:54:03.725625 [debug] [MainThread]: Flushing usage events
+
+
+============================== 09:57:56.221309 | a95f6f18-e90f-49c1-97c0-8440ffd3ff34 ==============================
+[0m09:57:56.221309 [info ] [MainThread]: Running with dbt=1.5.0-b5
+[0m09:57:56.224873 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'version_check': 'True', 'log_path': 'logs', 'profiles_dir': '/mnt/c/Users/dcano/projects/dbt_simple_project', 'debug': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'static_parser': 'True', 'introspect': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'target_path': 'None', 'send_anonymous_usage_stats': 'False'}
+[0m09:57:56.226939 [debug] [MainThread]: Flushing usage events
